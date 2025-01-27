@@ -11,5 +11,4 @@ I have used Cocoapods:
 SDWebImage is used to download and display images in the lists seamlessly from the internet
 Moya is used to maintain code quality even while writing it from scratch
 Moya is used to simplify the API calls and to make it very clean and scalable (which is using Alamofire).
-Known Issues:
 
